@@ -1,4 +1,4 @@
-# Observateur-d-v-nements-windows
+# Observateur-d'evenements-windows
 # 📌 Explication du fichier  
 
 Ce fichier XML est une configuration pour l'Event Viewer de Windows, spécifiquement pour surveiller les événements liés aux services DNS.  
